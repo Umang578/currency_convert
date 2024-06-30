@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Umang578.github.io/currency_converter",
+    "homepage": "https://Umang578.github.io/currency_convert",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
